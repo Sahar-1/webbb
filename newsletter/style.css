@@ -1,0 +1,4 @@
+    #header, #container {width:65%;margin:0 auto; padding:0.7%;} 
+    #container {background:#ccc;} 
+    form input.text {width:95%; font-size:16px;} 
+    #message.success {border:solid 1px #349534; background:#C9FFCA;color:#008000;}
